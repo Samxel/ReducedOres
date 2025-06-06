@@ -70,6 +70,7 @@ excluded_ores = []
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8afae9c7-4338-422b-830b-2616b6ef39be" alt="hidden_trails_banner">
 </p>
+
 Developed in collaboration with the [Hidden Trails](https://www.curseforge.com/minecraft/modpacks/hidden-trails) modpack for a more meaningful and immersive progression experience.
 
 ---
