@@ -4,6 +4,16 @@
   <img src="https://github.com/user-attachments/assets/d2982b75-af32-4594-9015-5b100c6d405b" alt="preview">
 </p>
 
+<p align="center">
+  <b>Available at:</b><br>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/reducedores">
+    <img src="https://img.shields.io/badge/CurseForge-Download-orange?logo=curseforge&style=for-the-badge" alt="CurseForge">
+  </a>
+  <a href="https://modrinth.com/mod/reducedores">
+    <img src="https://img.shields.io/badge/Modrinth-Download-brightgreen?logo=modrinth&style=for-the-badge" alt="Modrinth">
+  </a>
+</p>
+
 **Too many ores cluttering your world?**  
 Reduced Ores is a lightweight and highly compatible mod that lowers ore generation to bring back balance, challenge, and meaning to mining.
 
