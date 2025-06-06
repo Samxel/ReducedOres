@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2982b75-af32-4594-9015-5b100c6d405b" alt="preview">
 </p>
+
 **Too many ores cluttering your world?**  
 Reduced Ores is a lightweight and highly compatible mod that lowers ore generation to bring back balance, challenge, and meaning to mining.
 
