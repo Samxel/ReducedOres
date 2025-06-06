@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.samxel.reducedores.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "reducedores.refmap.json",
+  "priority": 1000,
+  "mixins": [
+    "RegistryDataLoaderMixin",
+    "accessor.CountPlacementAccessor",
+    "accessor.HeightRangePlacementAccessor",
+    "accessor.RarityFilterAccessor"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
