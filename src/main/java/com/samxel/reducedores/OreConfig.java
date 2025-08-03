@@ -24,11 +24,11 @@ public class OreConfig {
             builder.push("ore_generation");
 
             ORE_SIZE_MULTIPLIER = builder
-                    .comment("Multiplier for ore vein size (0.01 - 1.0)")
+                    .comment("Multiplier for ore vein size")
                     .defineInRange("ore_size_multiplier", 0.5, 0.01, 1.0);
 
             ORE_GENERATION_CHANCE = builder
-                    .comment("Chance for ore generation (0.01 - 1.0)")
+                    .comment("Chance for ore generation")
                     .defineInRange("ore_generation_chance", 0.5, 0.01, 1.0);
 
             CUSTOM_ORES = builder
