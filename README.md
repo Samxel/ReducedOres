@@ -1,6 +1,18 @@
 # ⛏️ Reduced Ores
 
-![preview](https://github.com/user-attachments/assets/d2982b75-af32-4594-9015-5b100c6d405b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2982b75-af32-4594-9015-5b100c6d405b" alt="preview">
+</p>
+
+<p align="center">
+  <b>Available at:</b><br>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/reducedores">
+    <img src="https://img.shields.io/badge/CurseForge-Download-orange?logo=curseforge&style=for-the-badge" alt="CurseForge">
+  </a>
+  <a href="https://modrinth.com/mod/reducedores">
+    <img src="https://img.shields.io/badge/Modrinth-Download-brightgreen?logo=modrinth&style=for-the-badge" alt="Modrinth">
+  </a>
+</p>
 
 **Too many ores cluttering your world?**  
 Reduced Ores is a lightweight and highly compatible mod that lowers ore generation to bring back balance, challenge, and meaning to mining.
@@ -66,6 +78,9 @@ excluded_ores = []
 ---
 
 ## 🔗 Related
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8afae9c7-4338-422b-830b-2616b6ef39be" alt="hidden_trails_banner">
+</p>
 
 Developed in collaboration with the [Hidden Trails](https://www.curseforge.com/minecraft/modpacks/hidden-trails) modpack for a more meaningful and immersive progression experience.
 
