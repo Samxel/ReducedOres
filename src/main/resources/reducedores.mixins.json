@@ -6,6 +6,7 @@
   "refmap": "reducedores.refmap.json",
   "priority": 1000,
   "mixins": [
+    "OreVeinifierMixin",
     "RegistryDataLoaderMixin",
     "accessor.CountPlacementAccessor",
     "accessor.HeightRangePlacementAccessor",
